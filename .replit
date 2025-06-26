@@ -1,0 +1,4 @@
+
+entrypoint = "signal_bot.py"
+language = "python3"
+run = "python3 signal_bot.py"
